@@ -2,7 +2,7 @@
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/larvacent/docker-php.svg?branch=master)](https://travis-ci.org/larvacent/docker-php) 
+[![Build Status](https://travis-ci.org/larvacent/docker-php-fpm.svg?branch=master)](https://travis-ci.org/larvacent/docker-php-fpm) 
 
 ## Container layout
 
