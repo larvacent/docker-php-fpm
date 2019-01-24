@@ -1,9 +1,10 @@
-FROM larvacent/php:7.3-fpm-base
+ARG PHP_VERSION
+FROM larvacent/php:${PHP_VERSION}-fpm-base
 
 LABEL maintainer="support@larvacent.com"
 
 # Add configuration files
-COPY image-files/ /
+COPY image-files /
 
 EXPOSE 9000
 
